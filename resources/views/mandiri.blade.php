@@ -19,7 +19,7 @@
               <h4 class="text-center">Lakukan pembayaran dengan menggunakan no dibawah ini</h4>
                     <br>
                     <div class="text-center">
-  <img style="max-height: 200px; max-width: 200px;" src="{{asset('niceadmin/assets/img/mandiri.png')}}" class="rounded" alt="...">
+  <img style="max-height: 200px; max-width: 200px;" src=" assets/img/mandiri.png  " class="rounded" alt="...">
 </div>
 <br>
 <div class="text-center">

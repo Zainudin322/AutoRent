@@ -13,7 +13,7 @@
  <div class="row row-cols-1 row-cols-md-4 g-4">
   <div class="col">
     <div class="card h-100">
-      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src="{{asset('niceadmin/assets/img/revo.png')}}" class="card-img-top" alt="...">
+      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src=" assets/img/revo.png " class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -25,7 +25,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src="{{asset('niceadmin/assets/img/supra.png')}}" class="card-img-top" alt="...">
+      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src=" assets/img/supra.png " class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
@@ -37,7 +37,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src="{{asset('niceadmin/assets/img/nmax.png')}}" class="card-img-top" alt="...">
+      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src=" assets/img/nmax.png " class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
@@ -49,7 +49,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src="{{asset('niceadmin/assets/img/z1.png')}}" class="card-img-top" alt="...">
+      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src=" assets/img/z1.png " class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
@@ -61,7 +61,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src="{{asset('niceadmin/assets/img/fu.png')}}" class="card-img-top" alt="...">
+      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src=" assets/img/fu.png " class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -73,7 +73,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src="{{asset('niceadmin/assets/img/r15.png')}}" class="card-img-top" alt="...">
+      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src=" assets/img/r15.png " class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
@@ -85,7 +85,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src="{{asset('niceadmin/assets/img/sonic.png')}}" class="card-img-top" alt="...">
+      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src=" assets/img/sonic.png " class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
@@ -97,7 +97,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src="{{asset('niceadmin/assets/img/ninja.png')}}" class="card-img-top" alt="...">
+      <img style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"style="max-height: 200px;"src=" assets/img/ninja.png " class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>

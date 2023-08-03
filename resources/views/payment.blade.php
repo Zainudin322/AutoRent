@@ -23,13 +23,13 @@
                 </div>
                 <div class="carousel-inner">
                   <div class="carousel-item active text-center">
-                    <img style="max-height: 300px; max-width: 500px;" src="{{asset('niceadmin/assets/img/xpander.jpg')}}" class="img-fluid" alt="...">
+                    <img style="max-height: 300px; max-width: 500px;" src="  assets/img/xpander.jpg  " class="img-fluid" alt="...">
                   </div>
                   <div class="carousel-item text-center">
-                    <img style="max-height: 300px; max-width: 500px;" src="{{asset('niceadmin/assets/img/xp1.png')}}" class="img-fluid" alt="...">
+                    <img style="max-height: 300px; max-width: 500px;" src="  assets/img/xp1.png  " class="img-fluid" alt="...">
                   </div>
                   <div class="carousel-item text-center">
-                    <img style="max-height: 300px; max-width: 500px;" src="{{asset('niceadmin/assets/img/xp2.png')}}" class="img-fluid" alt="...">
+                    <img style="max-height: 300px; max-width: 500px;" src="  assets/img/xp2.png  " class="img-fluid" alt="...">
                   </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -69,7 +69,7 @@
   <!-- Card with an image on left -->
             <div class="row g-0">
               <div class="col-md-1">
-              <img src="{{asset('niceadmin/assets/img/user.png')}}"  class="img-fluid rounded-start" alt="...">
+              <img src="  assets/img/user.png  "  class="img-fluid rounded-start" alt="...">
               </div>
               <div class="col-md-6">
                   <p class="fs-6 fw-bold">Nodi Mobilindo</p>
@@ -165,7 +165,7 @@
                     <div class="accordion-body">
                     <div class="row row-cols-2 row-cols-md-4 g-2">
   <div class="col" data-bs-toggle="modal" data-bs-target="#verticalycentered">
-  <img style="max-height: 70px; max-width: 70px;" src="{{asset('niceadmin/assets/img/mandiri.png')}}" class="card-img-top" alt="...">
+  <img style="max-height: 70px; max-width: 70px;" src="  assets/img/mandiri.png  " class="card-img-top" alt="...">
   <div class="modal fade" id="verticalycentered" tabindex="-1">
                 <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
@@ -177,7 +177,7 @@
                     <small>Lakukan pembayaran dengan menggunakan no dibawah ini</small>
                     <br>
                     <div class="text-center">
-  <img style="max-height: 200px; max-width: 200px;" src="{{asset('niceadmin/assets/img/mandiri.png')}}" class="rounded" alt="...">
+  <img style="max-height: 200px; max-width: 200px;" src="  assets/img/mandiri.png  " class="rounded" alt="...">
 </div>
 <div class="text-center">
 <p class="fs-1 fw-bold">00018776647xxx</p>
@@ -192,7 +192,7 @@
 </div>
   </div>
   <div class="col" data-bs-toggle="modal" data-bs-target="#bca">
-  <img style="max-height: 70px; max-width: 70px;" src="{{asset('niceadmin/assets/img/bca.png')}}" class="card-img-top" alt="...">
+  <img style="max-height: 70px; max-width: 70px;" src="  assets/img/bca.png  " class="card-img-top" alt="...">
   <div class="modal fade" id="bca" tabindex="-1">
                 <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
@@ -204,7 +204,7 @@
                     <small>Lakukan pembayaran dengan menggunakan no dibawah ini</small>
                     <br>
                     <div class="text-center">
-  <img style="max-height: 200px; max-width: 200px;" src="{{asset('niceadmin/assets/img/bca.png')}}" class="rounded" alt="...">
+  <img style="max-height: 200px; max-width: 200px;" src="  assets/img/bca.png  " class="rounded" alt="...">
 </div>
 <div class="text-center">
 <p class="fs-1 fw-bold">57898xxx</p>
@@ -219,7 +219,7 @@
 </div>
   </div>
   <div class="col" data-bs-toggle="modal" data-bs-target="#bri">
-  <img style="max-height: 70px; max-width: 70px;" src="{{asset('niceadmin/assets/img/bri.png')}}" class="card-img-top" alt="...">
+  <img style="max-height: 70px; max-width: 70px;" src="  assets/img/bri.png  " class="card-img-top" alt="...">
   <div class="modal fade" id="bri" tabindex="-1">
                 <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
@@ -231,7 +231,7 @@
                     <small>Lakukan pembayaran dengan menggunakan no dibawah ini</small>
                     <br>
                     <div class="text-center">
-  <img style="max-height: 200px; max-width: 200px;" src="{{asset('niceadmin/assets/img/bri.png')}}" class="rounded" alt="...">
+  <img style="max-height: 200px; max-width: 200px;" src="  assets/img/bri.png  " class="rounded" alt="...">
 </div>
 <div class="text-center">
 <p class="fs-1 fw-bold">23187766xxxxx</p>
@@ -246,7 +246,7 @@
 </div>
   </div>
   <div class="col" data-bs-toggle="modal" data-bs-target="#bni">
- <img style="max-height: 70px; max-width: 70px;" src="{{asset('niceadmin/assets/img/bni.jpg')}}" class="card-img-top" alt="...">
+ <img style="max-height: 70px; max-width: 70px;" src="  assets/img/bni.jpg  " class="card-img-top" alt="...">
  <div class="modal fade" id="bni" tabindex="-1">
                 <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
@@ -258,7 +258,7 @@
                     <small>Lakukan pembayaran dengan menggunakan no dibawah ini</small>
                     <br>
                     <div class="text-center">
-  <img style="max-height: 200px; max-width: 200px;" src="{{asset('niceadmin/assets/img/bni.jpg')}}" class="rounded" alt="...">
+  <img style="max-height: 200px; max-width: 200px;" src="  assets/img/bni.jpg  " class="rounded" alt="...">
 </div>
 <div class="text-center">
 <p class="fs-1 fw-bold">451877664xxxx</p>
@@ -273,7 +273,7 @@
 </div>
   </div>
   <div class="col" data-bs-toggle="modal" data-bs-target="#jenius">
-<img style="max-height: 70px; max-width: 70px;" src="{{asset('niceadmin/assets/img/jenius.png')}}" class="card-img-top" alt="...">
+<img style="max-height: 70px; max-width: 70px;" src="  assets/img/jenius.png  " class="card-img-top" alt="...">
 <div class="modal fade" id="jenius" tabindex="-1">
                 <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
@@ -285,7 +285,7 @@
                     <small>Lakukan pembayaran dengan menggunakan no dibawah ini</small>
                     <br>
                     <div class="text-center">
-  <img style="max-height: 200px; max-width: 200px;" src="{{asset('niceadmin/assets/img/jenius.png')}}" class="rounded" alt="...">
+  <img style="max-height: 200px; max-width: 200px;" src="  assets/img/jenius.png  " class="rounded" alt="...">
 </div>
 <div class="text-center">
 <p class="fs-1 fw-bold">08213456xxx</p>
@@ -300,7 +300,7 @@
 </div>
 </div>
 <div class="col" data-bs-toggle="modal" data-bs-target="#gopay">
-<img style="max-height: 70px; max-width: 70px;" src="{{asset('niceadmin/assets/img/gopay.png')}}" class="card-img-top" alt="...">
+<img style="max-height: 70px; max-width: 70px;" src="  assets/img/gopay.png  " class="card-img-top" alt="...">
 <div class="modal fade" id="gopay" tabindex="-1">
                 <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
@@ -312,7 +312,7 @@
                     <small>Lakukan pembayaran dengan menggunakan no dibawah ini</small>
                     <br>
                     <div class="text-center">
-  <img style="max-height: 200px; max-width: 200px;" src="{{asset('niceadmin/assets/img/gopay.png')}}" class="rounded" alt="...">
+  <img style="max-height: 200px; max-width: 200px;" src="  assets/img/gopay.png  " class="rounded" alt="...">
 </div>
 <div class="text-center">
 <p class="fs-1 fw-bold">021877698xxx</p>
@@ -327,7 +327,7 @@
 </div>
 </div>
 <div class="col" data-bs-toggle="modal" data-bs-target="#dana">
-<img style="max-height: 70px; max-width: 70px;" src="{{asset('niceadmin/assets/img/dana.png')}}" class="card-img-top" alt="...">
+<img style="max-height: 70px; max-width: 70px;" src="  assets/img/dana.png  " class="card-img-top" alt="...">
 <div class="modal fade" id="dana" tabindex="-1">
                 <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
@@ -339,7 +339,7 @@
                     <small>Lakukan pembayaran dengan menggunakan no dibawah ini</small>
                     <br>
                     <div class="text-center">
-  <img style="max-height: 200px; max-width: 200px;" src="{{asset('niceadmin/assets/img/dana.png')}}" class="rounded" alt="...">
+  <img style="max-height: 200px; max-width: 200px;" src="  assets/img/dana.png  " class="rounded" alt="...">
 </div>
 <div class="text-center">
 <p class="fs-1 fw-bold">02118666647xxx</p>
@@ -354,7 +354,7 @@
 </div>
 </div>
 <div class="col" data-bs-toggle="modal" data-bs-target="#ovo">
-<img style="max-height: 70px; max-width: 70px;" src="{{asset('niceadmin/assets/img/ovo.png')}}" class="card-img-top" alt="...">
+<img style="max-height: 70px; max-width: 70px;" src="  assets/img/ovo.png  " class="card-img-top" alt="...">
 <div class="modal fade" id="ovo" tabindex="-1">
                 <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
@@ -366,7 +366,7 @@
                     <small>Lakukan pembayaran dengan menggunakan no dibawah ini</small>
                     <br>
                     <div class="text-center">
-  <img style="max-height: 200px; max-width: 200px;" src="{{asset('niceadmin/assets/img/ovo.png')}}" class="rounded" alt="...">
+  <img style="max-height: 200px; max-width: 200px;" src="  assets/img/ovo.png  " class="rounded" alt="...">
 </div>
 <div class="text-center">
 <p class="fs-1 fw-bold">02118772890xxx</p>

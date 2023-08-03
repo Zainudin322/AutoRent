@@ -22,7 +22,7 @@
               <h5 class="card-title">Detail Penyewa</h5>
               <div class="row">
               <div class="text-center">
-              <img style="max-height: 400px; max-width: 400px;" src="{{asset('niceadmin/assets/img/avanza.png')}}" class="card-img img-fluid" alt="...">
+              <img style="max-height: 400px; max-width: 400px;" src=" assets/img/avanza.png " class="card-img img-fluid" alt="...">
                 </div>
                 </div>
                 <br>
@@ -43,8 +43,12 @@
                 <div class="col-lg-9 col-md-8">Toyota Avanza</div>
               </div>
               <div class="row">
+                <div class="col-lg-3 col-md-4 label">Tipe</div>
+                <div class="col-lg-9 col-md-8">LMPV</div>
+              </div>
+              <div class="row">
                 <div class="col-lg-3 col-md-4 label">Harga Sewa</div>
-                <div class="col-lg-9 col-md-8">Rp. 7000.000</div>
+                <div class="col-lg-9 col-md-8">Rp. 500.000</div>
               </div>
               <div class="row">
                 <div class="col-lg-3 col-md-4 label">Tahun Rilis</div>

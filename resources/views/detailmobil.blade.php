@@ -22,13 +22,13 @@
                 </div>
                 <div class="carousel-inner">
                   <div class="carousel-item active text-center">
-                    <img style="max-height: 300px; max-width: 500px;" src="{{asset('niceadmin/assets/img/xpander.jpg')}}" class="img-fluid" alt="...">
+                    <img style="max-height: 300px; max-width: 500px;" src=" assets/img/xpander.jpg " class="img-fluid" alt="...">
                   </div>
                   <div class="carousel-item text-center">
-                    <img style="max-height: 300px; max-width: 500px;" src="{{asset('niceadmin/assets/img/xp1.png')}}" class="img-fluid" alt="...">
+                    <img style="max-height: 300px; max-width: 500px;" src=" assets/img/xp1.png " class="img-fluid" alt="...">
                   </div>
                   <div class="carousel-item text-center">
-                    <img style="max-height: 300px; max-width: 500px;" src="{{asset('niceadmin/assets/img/xp2.png')}}" class="img-fluid" alt="...">
+                    <img style="max-height: 300px; max-width: 500px;" src=" assets/img/xp2.png " class="img-fluid" alt="...">
                   </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -85,7 +85,7 @@
   <!-- Card with an image on left -->
             <div class="row g-0">
               <div class="col-md-1">
-              <img src="{{asset('niceadmin/assets/img/user.png')}}"  class="img-fluid rounded-start" alt="...">
+              <img src=" assets/img/user.png "  class="img-fluid rounded-start" alt="...">
               </div>
               <div class="col-md-6">
                   <p class="fs-6 fw-bold">Nodi Mobilindo</p>

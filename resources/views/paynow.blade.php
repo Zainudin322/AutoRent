@@ -17,7 +17,7 @@
 <div class="card">
 	<div class="row g-0">
 		<div class="col-md-4">
-			<img src="{{asset('niceadmin/assets/img/xpander.jpg')}}" class="card-img img-fluid" alt="...">
+			<img src="  assets/img/xpander.jpg  " class="card-img img-fluid" alt="...">
 		</div>
 		<div class="col-md-4" >
 			<div class="card-body">

@@ -17,7 +17,7 @@
           <div class="card">
             <div class="card-body profile-card pt-4 d-flex flex-column align-items-center">
 
-              <img src="{{asset('niceadmin/assets/img/profile-img.jpg')}}" alt="Profile" class="rounded-circle">
+              <img src="  assets/img/profile-img.jpg  " alt="Profile" class="rounded-circle">
               <h2>Muhammad Abdullah</h2>
               <div class="social-links mt-2">
                 <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -73,7 +73,7 @@
 
                   <div class="row">
                     <div class="col-lg-3 col-md-4 label">Foto Ktp</div>
-                    <div class="col-lg-9 col-md-8"> <img style="max-height: 100px; max-width: 100px;" src="{{asset('niceadmin/assets/img/logo/ktp.jpg')}}" alt="Profile"></div>
+                    <div class="col-lg-9 col-md-8"> <img style="max-height: 100px; max-width: 100px;" src="  assets/img/logo/ktp.jpg  " alt="Profile"></div>
                   </div>
 
                   <div class="row">
@@ -83,7 +83,7 @@
 
                   <div class="row">
                     <div class="col-lg-3 col-md-4 label">Gambar Sim</div>
-                    <div class="col-lg-9 col-md-8"> <img style="max-height: 80px; max-width: 80px;" src="{{asset('niceadmin/assets/img/logo/sim.jpg')}}" alt="Profile"></div>
+                    <div class="col-lg-9 col-md-8"> <img style="max-height: 80px; max-width: 80px;" src="  assets/img/logo/sim.jpg  " alt="Profile"></div>
                   </div>
 
                   <div class="row">
@@ -105,7 +105,7 @@
                     <div class="row mb-3">
                       <label for="profileImage" class="col-md-4 col-lg-3 col-form-label">Foto Profil</label>
                       <div class="col-md-8 col-lg-9">
-                        <img src="{{asset('niceadmin/assets/img/profile-img.jpg')}}" alt="Profile">
+                        <img src="  assets/img/profile-img.jpg  " alt="Profile">
                         <div class="pt-2">
                           <a href="#" class="btn btn-primary btn-sm" title="Upload new profile image"><i class="bi bi-upload"></i></a>
                           <a href="#" class="btn btn-danger btn-sm" title="Remove my profile image"><i class="bi bi-trash"></i></a>
@@ -153,7 +153,7 @@
                     <div class="row mb-3">
                       <label for="profileImage" class="col-md-4 col-lg-3 col-form-label">Foto Ktp</label>
                       <div class="col-md-8 col-lg-9">
-                        <img src="{{asset('niceadmin/assets/img/logo/ktp.jpg')}}" alt="Profile">
+                        <img src="  assets/img/logo/ktp.jpg  " alt="Profile">
                         <div class="pt-2">
                           <a href="#" class="btn btn-primary btn-sm" title="Upload new profile image"><i class="bi bi-upload"></i></a>
                           <a href="#" class="btn btn-danger btn-sm" title="Remove my profile image"><i class="bi bi-trash"></i></a>
@@ -163,7 +163,7 @@
                     <div class="row mb-3">
                       <label for="Job" class="col-md-4 col-lg-3 col-form-label">No. Sim</label>
                       <div class="col-md-8 col-lg-9">
-                        <img src="{{asset('niceadmin/assets/img/logo/sim.jpg')}}" alt="Profile">
+                        <img src="  assets/img/logo/sim.jpg  " alt="Profile">
                         <div class="pt-2">
                           <a href="#" class="btn btn-primary btn-sm" title="Upload new profile image"><i class="bi bi-upload"></i></a>
                           <a href="#" class="btn btn-danger btn-sm" title="Remove my profile image"><i class="bi bi-trash"></i></a>
