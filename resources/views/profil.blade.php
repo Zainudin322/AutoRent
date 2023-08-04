@@ -161,7 +161,13 @@
                       </div>
                     </div>
                     <div class="row mb-3">
-                      <label for="Job" class="col-md-4 col-lg-3 col-form-label">No. Sim</label>
+                      <label for="company" class="col-md-4 col-lg-3 col-form-label">No. Sim</label>
+                      <div class="col-md-8 col-lg-9">
+                        <input name="company" type="text" class="form-control" id="company" value="32759987xxxxx">
+                      </div>
+                    </div>
+                    <div class="row mb-3">
+                      <label for="Job" class="col-md-4 col-lg-3 col-form-label">Foto Sim</label>
                       <div class="col-md-8 col-lg-9">
                         <img src="  assets/img/logo/sim.jpg  " alt="Profile">
                         <div class="pt-2">

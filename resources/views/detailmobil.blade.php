@@ -42,7 +42,7 @@
               </div><!-- End Slides with indicators -->
               <br>
               <small class="text-decoration-line-through fw-light">Rp. 700.000</small>
-              <p class="fs-3 fw-bold">Rp. 700.000</p>
+              <p class="fs-3 fw-bold">Rp. 560.000</p>
               <p class="fs-4">Mitshubishi Xpander Ultimate</p>
  <small>Tersewa 1.500</small>
  <a class="btn btn-outline-secondary btn-sm" href="/blank">

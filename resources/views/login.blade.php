@@ -100,7 +100,7 @@
                     </div>
                   </form>
                   <br>
-                  <p class="small mb-0">Lanjutkan ke halaman berikutnya : <a class="btn btn-outline-secondary btn-sm" href="/dashboard"></span> Next</a></p>
+                  <p class="small mb-0">Halaman berikutnya : <a class="btn btn-outline-secondary btn-sm" href="/dashboard"></span> Next</a></p>
                 </div>
               </div>
 

@@ -12,7 +12,7 @@
 <h3>Kontak Saya</h3>
     <section class="section contact">
 
-    <div class="row row-cols-1 row-cols-md-3 g-3">
+    <div class="row row-cols-1 row-cols-md-3 g-3 justify-content-center">
   <br>
   <div class="col">
   <div class="card" style="width: 18rem; ">
@@ -45,7 +45,7 @@
     <img style="max-height: 100px; max-width: 100px;" src=" assets/img/logo/ig.png " class="card-img-top mx-auto d-block" alt="...">
 </ul>
 <div class="card-body text-center">
-    <p class="card-text text-dark">Zainudin_nd</p>
+    <p class="card-text text-dark">Muhzai322</p>
   </div>
 </a>
     </div>
@@ -57,7 +57,7 @@
     <img style="max-height: 100px; max-width: 100px;" src=" assets/img/logo/github.png " class="card-img-top mx-auto d-block" alt="...">
 </ul>
 <div class="card-body text-center">
-  <p class="card-text text-dark">Muhzai322</p>
+  <p class="card-text text-dark">Muhammad Zainudin</p>
 </a>
 </div>
 </div>

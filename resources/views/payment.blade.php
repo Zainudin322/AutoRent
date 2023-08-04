@@ -43,6 +43,7 @@
               </div><!-- End Slides with indicators -->
               <br>
               <p class="fs-4">Mitshubishi Xpander Ultimate</p>
+              <p class="fs-3 fw-bold">Rp. 560.000</p>
   <ul class="list-group">
   <li class="list-group-item">
 <p class="fs-5 fw-bold">Detail Mobil</p>
@@ -105,30 +106,46 @@
                 <div class="row mb-3">
                   <label class="col-sm-2 col-form-label">Driver</label>
                   <div class="col-sm-10">
-                    <select class="form-select" aria-label="Default select example">
-                      <option selected>Tanpa Driver</option>
-                      <option value="1">Driver</option>
-                    </select>
+                  <div class="form-check">
+                  <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1"  data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" checked>
+  <label class="form-check-label" for="flexRadioDefault1">
+    Tanpa Driver
+  </label>
+  <div class="collapse" id="collapseExample">
+  <div class="card card-body">
+  <br>
+  <Small class="text-primary">Alamat showroom</Small>
+  Jl.Bojong Menteng Kecamatan Rawa Lumbu Kota Bekasi 171513
+  </div>
+</div>
+</div>
+<div class="form-check">
+  <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2"  data-bs-toggle="collapse" href="#collapseExample2" role="button" aria-expanded="false" aria-controls="collapseExampl2">
+  <label class="form-check-label" for="flexRadioDefault2">
+    Driver
+  </label>
+  <div class="collapse" id="collapseExample2">
+  <div class="card card-body">
+  <br>
+  <Small class="text-primary">Alamat saya</Small>
+  Jl. Hj DJalo Padurenan Kecamatan Mustika Jaya Kota Bekasi 171519
+</div>
+</div>
+</div>
+                  </div>
+                </div>
+                <div class="row mb-3">
+                  <label class="col-sm-2 col-form-label">Jumlah Unit</label>
+                  <div class="col-sm-10">
+                  <input type="number" min="1" step="1" class="form-control" id="amountInput">
                   </div>
                 </div>
                 <div class="row mb-3">
                   <label class="col-sm-2 col-form-label">Durasi Sewa</label>
                   <div class="col-sm-10">
-                    <div class="form-floating mb-3">
-                      <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                        <option selected>Pilih Durasi</option>
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
-                        <option value="5">5</option>
-                        <option value="6">6</option>
-                        <option value="7">7</option>
-                        <option value="8">8</option>
-                        <option value="9">9</option>
-                        <option value="10">10</option>
-                      </select>
-                      <label for="floatingSelect">Hitungan persatu hari</label>
+                  <div class="form-floating mb-3">
+                  <input type="number" min="1" step="1" class="form-control" id="amountInput">
+                  <label for="floatingSelect">Hitungan persatu hari</label>
                     </div>
                   </div>
                 </div>
